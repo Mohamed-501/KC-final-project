@@ -16,7 +16,7 @@ function removeFromCart(index) {
 function updateCartDisplay() {
     document.getElementById('cart-total').textContent = `الإجمالي: $${cartTotal}`;
     const cartList = document.getElementById('cart-list');
-    cartList.innerHTML = ''; // مسح محتوى السلة
+    cartList.innerHTML = ''; 
     cartItems.forEach((item, index) => {
         const listItem = document.createElement('li');
         listItem.textContent = `${item.itemName} بسعر: $${item.price}`;
