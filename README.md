@@ -8,7 +8,7 @@
 محمد فرج ظاهر 
 
 ### اسم المشروع
-ASMA STORE
+ASMR STORE
 
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
@@ -17,21 +17,7 @@ ASMA STORE
 # الأعمال المستقبلية
 تعديل سلة التسوق وجعلها اكثر دقه وجمالاً
 
-
+تشغيل زر الدفع لجعله اكثر سلاسه 
 
 
 </div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
-
-
